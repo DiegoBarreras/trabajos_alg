@@ -1,0 +1,104 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'Inserte solo el día de hoy. Ej: 19'
+5
+1
+4
+diaa
+4
+1
+53
+'Inserte en número solo el mes actual. Ej: 6 (Junio)'
+5
+1
+4
+mesa
+4
+1
+24
+'Inserte el año actual' 
+5
+1
+4
+añoa
+4
+1
+20
+'Escriba su nombre.'
+5
+1
+3
+nom
+4
+1
+35
+'Anote ahora el día en que nació.' 
+5
+1
+3
+dia
+4
+1
+58
+'Anote en número el mes en que nació. Ej: 11 (Noviembre)' 
+5
+1
+3
+mes
+4
+1
+28
+'Anote el año en que nació.'
+5
+1
+3
+año
+6
+1
+4
+edad
+10
+añoa - año
+7
+0
+1
+10
+mes < mesa
+7
+0
+1
+10
+dia > diaa
+13
+6
+1
+4
+edad
+8
+edad - 1
+13
+13
+13
+7
+0
+1
+10
+edad >= 18
+4
+1
+50
+nom, ' tiene ', edad, ' años, y es menor de edad.'
+13
+4
+1
+50
+nom, ' tiene ', edad, ' años, y es mayor de edad.'
+13
+1

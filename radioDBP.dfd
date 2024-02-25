@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el radio del círculo'
+5
+1
+4
+num1
+6
+1
+3
+res
+17
+((3.1416)*num1^2)
+4
+1
+54
+'El área del círculo con radio de ', num1, ' es ', res
+1

@@ -1,0 +1,114 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese el primer número:'
+5
+1
+4
+num1
+4
+1
+28
+'Ingrese el segundo número:'
+5
+1
+4
+num2
+4
+1
+147
+'¿Qué operación desea realizar? Para sumar, coloque 1. Para restar, coloque el número 2. Para multiplicar, el número 3. Para dividir, el número 4.'
+5
+1
+2
+op
+7
+0
+1
+6
+op = 1
+7
+0
+1
+6
+op = 2
+7
+0
+1
+6
+op = 3
+7
+0
+1
+6
+op = 4
+4
+1
+91
+'Por favor, coloque una operación válida. Recuerde que solo se admiten números del 1 al 4.'
+13
+7
+0
+1
+8
+num2 = 0
+6
+1
+4
+divr
+11
+num1 / num2
+4
+1
+67
+'El resultado de la división de ', num1, ' / ', num2, ' es: ', divr
+13
+4
+1
+31
+'No es posible dividir entre 0'
+13
+13
+13
+6
+1
+4
+mulr
+11
+num1 * num2
+4
+1
+73
+'El resultado de la multiplicación de ', num1, ' * ', num2, ' es: ', mulr
+13
+13
+6
+1
+4
+resr
+11
+num1 - num2
+4
+1
+64
+'El resultado de la resta de ', num1, ' - ', num2, ' es: ', resr
+13
+13
+6
+1
+4
+sumr
+11
+num1 + num2
+4
+1
+63
+'El resultado de la suma de ', num1, ' + ', num2, ' es: ', sumr
+13
+1

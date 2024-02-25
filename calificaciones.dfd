@@ -1,0 +1,259 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Ingresar el nombre de la carrera por evaluar.'
+5
+1
+3
+car
+4
+1
+32
+'Ingresar el grupo por evaluar.'
+5
+1
+3
+gpo
+4
+1
+33
+'Ingresar la materia por evaluar'
+5
+1
+3
+mat
+4
+1
+65
+'Ingresar el apellido paterno del primer estudiante por evaluar.'
+5
+1
+3
+ap1
+4
+1
+65
+'Ingresar el apellido materno del primer estudiante por evaluar.'
+5
+1
+3
+am1
+4
+1
+61
+'Ingresar el/los nombre/s del primer estudiante por evaluar.'
+5
+1
+4
+nom1
+4
+1
+80
+'Ingresar la calificación del primer parcial del primer estudiante por evaluar.'
+5
+1
+14
+primerparcial1
+4
+1
+81
+'Ingresar la calificación del segundo parcial del primer estudiante por evaluar.'
+5
+1
+15
+segundoparcial1
+4
+1
+80
+'Ingresar la calificación del tercer parcial del primer estudiante por evaluar.'
+5
+1
+14
+tercerparcial1
+4
+1
+66
+'Ingresar el apellido paterno del segundo estudiante por evaluar.'
+5
+1
+3
+ap2
+4
+1
+66
+'Ingresar el apellido materno del segundo estudiante por evaluar.'
+5
+1
+3
+am2
+4
+1
+62
+'Ingresar el/los nombre/s del segundo estudiante por evaluar.'
+5
+1
+4
+nom2
+4
+1
+81
+'Ingresar la calificación del primer parcial del segundo estudiante por evaluar.'
+5
+1
+14
+primerparcial2
+4
+1
+82
+'Ingresar la calificación del segundo parcial del segundo estudiante por evaluar.'
+5
+1
+15
+segundoparcial2
+4
+1
+81
+'Ingresar la calificación del tercer parcial del segundo estudiante por evaluar.'
+5
+1
+14
+tercerparcial2
+4
+1
+65
+'Ingresar el apellido paterno del tercer estudiante por evaluar.'
+5
+1
+3
+ap3
+4
+1
+65
+'Ingresar el apellido materno del tercer estudiante por evaluar.'
+5
+1
+3
+am3
+4
+1
+61
+'Ingresar el/los nombre/s del tercer estudiante por evaluar.'
+5
+1
+4
+nom3
+4
+1
+80
+'Ingresar la calificación del primer parcial del tercer estudiante por evaluar.'
+5
+1
+14
+primerparcial3
+4
+1
+81
+'Ingresar la calificación del segundo parcial del tercer estudiante por evaluar.'
+5
+1
+15
+segundoparcial3
+4
+1
+80
+'Ingresar la calificación del tercer parcial del tercer estudiante por evaluar.'
+5
+1
+14
+tercerparcial3
+6
+3
+5
+prom1
+54
+(primerparcial1 + segundoparcial1 + tercerparcial1) /3
+5
+prom2
+54
+(primerparcial2 + segundoparcial2 + tercerparcial2) /3
+5
+prom3
+54
+(primerparcial3 + segundoparcial3 + tercerparcial3) /3
+6
+1
+5
+promt
+25
+(prom1 + prom2 + prom3)/3
+4
+1
+109
+'Promedios de la materia ', mat, ' del grupo ', gpo, ' de la carrera ', car                                  
+7
+0
+1
+10
+prom1 >= 6
+4
+1
+78
+'El promedio de ', nom1, ' ',ap1, ' ',am1,' es: ',prom1, ' y está reprobado. '
+13
+4
+1
+77
+'El promedio de ', nom1, ' ',ap1, ' ',am1,' es: ',prom1, ' y está aprobado. '
+13
+7
+0
+1
+10
+prom2 >= 6
+4
+1
+78
+'El promedio de ', nom2, ' ',ap2, ' ',am2,' es: ',prom2, ' y está reprobado. '
+13
+4
+1
+77
+'El promedio de ', nom2, ' ',ap2, ' ',am2,' es: ',prom2, ' y está aprobado. '
+13
+7
+0
+1
+10
+prom3 >= 6
+4
+1
+78
+'El promedio de ', nom3, ' ',ap3, ' ',am3,' es: ',prom3, ' y está reprobado. '
+13
+4
+1
+77
+'El promedio de ', nom3, ' ',ap3, ' ',am3,' es: ',prom3, ' y está aprobado. '
+13
+7
+0
+1
+10
+promt >= 6
+4
+1
+58
+'El promedio del grupo es: ', promt, ' y es reprobatorio.'
+13
+4
+1
+57
+'El promedio del grupo es: ', promt, ' y es aprobatorio.'
+13
+1
